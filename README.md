@@ -1,2 +1,1 @@
-# drowsiness-hfl
-Framework for drowsiness detection while driving using Hierarchical Federated Learning, Federated Learning and Machine Learning
+# Implementation for the paper "Privacy-preserving Hierarchical Federated Learning with Biosignals to Detect Drowsiness While Drivin"
